@@ -3,7 +3,7 @@ kind: Kptfile
 metadata:
   name: chart
 upstream:
-  type: git
+  type: 
   git:
     commit: 627d5c4bb67b77185f37e31d734b085019ff2951
     repo: https://github.com/stefanprodan/podinfo
